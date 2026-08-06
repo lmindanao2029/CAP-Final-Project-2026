@@ -1,0 +1,23 @@
+body {
+  background: #d4c0ff;
+  text-align: center
+}
+
+
+p {
+  color: #7b80ff;
+}
+
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  color: darkviolet;
+}
+
+img {
+  text-align: center;
+  width: 200px;
+  height: auto;
+
+}
